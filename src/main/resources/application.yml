@@ -77,5 +77,5 @@ mybatis-plus:
 # 鱼聪明AI
 yuapi:
   client:
-    access-key: fnacud9h4j8j05onm68awg2vs4dbuxh5
-    secret-key: j37pbg6l232ucoba5nu2sfr9hiq4nbpj
+    access-key: xxxxxx
+    secret-key: xxxxxx
