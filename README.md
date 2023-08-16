@@ -31,11 +31,13 @@ BI：数据可视化，报表可视化系统
 
 基本流程：
 
-![1692178419331](C:\Users\a1217\AppData\Roaming\Typora\typora-user-images\1692178419331.png)
+![image](https://github.com/ZllenHik/xcbi-backend/assets/89403161/ee14be1b-61c5-4804-bb47-1e43178369c5)
+
 
 优化流程：
 
-![1692178433816](C:\Users\a1217\AppData\Roaming\Typora\typora-user-images\1692178433816.png)
+![image](https://github.com/ZllenHik/xcbi-backend/assets/89403161/3a4a3c7f-f5f8-414a-97eb-06c713aebbc3)
+
 
 ## 技术栈
 
